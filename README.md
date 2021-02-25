@@ -13,3 +13,5 @@ Linux和Windows安装包
 ```
 ## 交流群
 - QQ群号码：1061594137
+## 其它下载方式
+GraphStack：https://graphstack.io/
