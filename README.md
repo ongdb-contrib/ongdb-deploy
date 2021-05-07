@@ -15,3 +15,5 @@ Linux和Windows安装包
 - QQ群号码：1061594137
 ## 其它下载方式
 GraphStack：https://graphstack.io/
+GraphFoundation：https://www.graphfoundation.org/
+GraphGrid：https://www.graphgrid.com/
