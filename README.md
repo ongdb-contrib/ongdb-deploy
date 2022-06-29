@@ -12,7 +12,9 @@ Linux和Windows安装包
 技术文档可以参考对应Neo4j的版本
 ```
 ## 交流群
-- QQ群号码：1061594137
+- ONgDB图数据库技术交流1群 QQ群号：1061594137
+- ONgDB图数据库技术交流2群 QQ群号：901656256
+- ONgDB图数据库技术交流3群 QQ群号：757815748
 ## 其它下载方式
 - GraphStack：https://graphstack.io/
 - GraphFoundation：https://www.graphfoundation.org/
